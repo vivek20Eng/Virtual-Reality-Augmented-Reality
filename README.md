@@ -1,4 +1,5 @@
-# React + Vite
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+# AR and VR
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
